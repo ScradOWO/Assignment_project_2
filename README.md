@@ -72,3 +72,6 @@ The Nvidia Jetson Nano will be used at the heart of the computer vision system. 
 - Reflections, lightning, position can pose as challenges in the system, as theyre never constant, this could be counteracted by adding an additional check during training for reflective surfaces or training the model on a dataset which contains them.
 - False positives and false negatives may occur and need to be minimized.
 - Real-world deployment may face challenges like dust, vibrations, or extreme temperatures, which could affect the hardware and/or the sensors.
+
+## Explanatory Diagram:
+![](https://i.ibb.co/L8Gr2zY/flowchart.jpg)
